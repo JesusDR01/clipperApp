@@ -6,7 +6,4 @@ guardas y no modifiques ningun nombre, solo guarda y continúa todo el rato
 
 git rebase --i HEAD~4 
 
-muestra los ultimos 4 commits y poniendole una s en lugar de pick a los que quieras unificar
 
-git rebase 
-commit 1 id
